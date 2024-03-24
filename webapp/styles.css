@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+/* styles.css */
+
+.navbar-logo {
+  width: auto;
+  height: 40px;
+}
+
+.center-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.card {
+  margin: 10px;
+}
+
+.card-img-top {
+  max-height: 100%;
+  max-width: 100%;
+}
+body {
+  background: linear-gradient(90deg, #1aa33c, #13a870, #00b5ff);
+  color: #fff;
+}
+
